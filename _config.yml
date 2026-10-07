@@ -3,7 +3,7 @@ booktitle: Proceedings of the Fortieth Conference on Uncertainty in Artificial I
 shortname: UAI
 year: '2024'
 volume: '244'
-start: &1 2024-07-15
+start: 2024-07-15
 end: 2024-07-19
 published: 2024-09-12
 conference_number: '40'
@@ -74,7 +74,7 @@ conference:
   url: https://www.auai.org/uai2024/
   location: Universitat Pompeu Fabra, Barcelona, Spain
   dates:
-  - *1
+  - 2024-07-15
   - 2024-07-16
   - 2024-07-17
   - 2024-07-18
